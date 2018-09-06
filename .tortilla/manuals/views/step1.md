@@ -448,7 +448,6 @@ Now, we need to make some modifications for the `TypeScript` config so we can lo
 +┊  ┊20┊    "stripInternal": true,
 +┊  ┊21┊    "noImplicitAny": false,
 +┊  ┊22┊    "types": [
-+┊  ┊23┊      "@types/meteor"
 +┊  ┊24┊    ]
  ┊15┊25┊  },
  ┊16┊26┊  "include": [
